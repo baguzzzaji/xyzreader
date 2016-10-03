@@ -11,5 +11,9 @@
     <dimen name="detail_body_left_margin">16dp</dimen>
     <dimen name="detail_body_right_margin">16dp</dimen>
     <dimen name="detail_body_top_margin">16dp</dimen>
+    <dimen name="list_item_article_margin_left">4dp</dimen>
+    <dimen name="list_item_article_margin_right">4dp</dimen>
+    <dimen name="list_item_article_margin_top">4dp</dimen>
+    <dimen name="list_item_article_margin_bottom">4dp</dimen>
 
 </resources>
