@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\Sandbox\\Android\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]
